@@ -1,0 +1,21 @@
+{
+    "name": "kenjiefx/snake-daddy",
+    "description": "A really simple snake game",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kenjiefx\\SnakeDaddy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kenjiefx",
+            "email": "terradoflex@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kenjiefx/scratch-php": "dev-main"
+    }
+}
